@@ -1,0 +1,218 @@
+- name: Flurry of Blows
+  cost: 0
+  damage: 4
+
+- name: Consecrate
+  cost: 0
+  damage: 5
+
+- name: Talk to the Hand
+  cost: 1
+  damage: 5
+
+- name: Carve Reality
+  cost: 1
+  damage: 6
+  effect: carveReality
+
+- name: Flurry of Blows+
+  cost: 0
+  damage: 6
+
+- name: Strike
+  cost: 1
+  damage: 6
+
+- name: Bite
+  cost: 1
+  damage: 7
+
+- name: Cut Through Fate
+  cost: 1
+  damage: 7
+
+- name: Follow Up
+  cost: 1
+  damage: 7
+
+- name: Talk to the Hand+
+  cost: 1
+  damage: 7
+
+- name: Bite+
+  cost: 1
+  damage: 8
+
+- name: Consecrate+
+  cost: 0
+  damage: 8
+
+- name: Crush Joints
+  cost: 1
+  damage: 8
+  effect: crushJoints
+
+- name: Fear No Evil
+  cost: 1
+  damage: 8
+  effect: fearNoEvil
+
+- name: Sash Whip
+  cost: 1
+  damage: 8
+
+- name: Cut Through Fate+
+  cost: 1
+  damage: 9
+
+- name: Empty Fist
+  cost: 1
+  damage: 9
+  effect: exit
+
+- name: Eruption
+  cost: 2
+  damage: 9
+  effect: wrath
+
+- name: Eruption+
+  cost: 1
+  damage: 9
+  effect: wrath
+
+- name: Strike+
+  cost: 1
+  damage: 9
+
+- name: Wallop
+  cost: 2
+  damage: 9
+
+- name: Carve Reality+
+  cost: 1
+  damage: 10
+  effect: carveReality
+
+- name: Crush Joints+
+  cost: 1
+  damage: 10
+  effect: crushJoints
+
+- name: Lesson Learned
+  cost: 2
+  damage: 10
+
+- name: Reach Heaven
+  cost: 2
+  damage: 10
+  effect: reachHeaven
+
+- name: Sash Whip+
+  cost: 1
+  damage: 10
+
+- name: Fear No Evil+
+  cost: 1
+  damage: 11
+  effect: fearNoEvil
+
+- name: Follow Up+
+  cost: 1
+  damage: 11
+
+- name: Conclude
+  cost: 1
+  damage: 12
+  effect: endTurn
+
+- name: Smite
+  cost: 1
+  damage: 12
+
+- name: Wallop+
+  cost: 2
+  damage: 12
+
+- name: Lesson Learned+
+  cost: 2
+  damage: 13
+
+- name: Empty Fist+
+  cost: 1
+  damage: 14
+  effect: exit
+
+- name: Reach Heaven+
+  cost: 2
+  damage: 15
+  effect: reachHeaven
+
+- name: Wheel Kick
+  cost: 2
+  damage: 15
+
+- name: Conclude+
+  cost: 1
+  damage: 16
+  effect: endTurn
+
+- name: Smite+
+  cost: 1
+  damage: 16
+
+- name: Sands of Time
+  cost: 4
+  damage: 20
+
+- name: Through Violence
+  cost: 0
+  damage: 20
+
+- name: Wheel Kick+
+  cost: 2
+  damage: 20
+
+- name: Sands of Time+
+  cost: 4
+  damage: 26
+
+- name: Through Violence+
+  cost: 0
+  damage: 30
+
+- name: Flying Sleeves
+  cost: 1
+  damage: 4
+  hits: 2
+
+- name: Tantrum
+  cost: 1
+  damage: 3
+  hits: 3
+  effect: wrath
+
+- name: Flying Sleeves+
+  cost: 1
+  damage: 6
+  hits: 2
+
+- name: Tantrum+
+  cost: 1
+  damage: 3
+  hits: 4
+  effect: wrath
+
+- name: Ragnarok
+  cost: 3
+  damage: 5
+  hits: 5
+
+- name: Ragnarok+
+  cost: 3
+  damage: 6
+  hits: 6
+
+- name: Battle Hymn
+  cost: 1
+  damage: 0
+  effect: battleHymn
